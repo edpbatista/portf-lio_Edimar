@@ -1,0 +1,61 @@
+.aboutHome{
+    background: linear-gradient(160deg,#e7b547,#fff,#be8dda,#fff,#e7b547);
+    margin: 0;
+}
+
+
+.resumo h1 {
+    text-align: center;
+    padding-top: 2rem;
+    font-size: 2rem;
+}
+
+.experiencia h4 {
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 1.5rem;
+}
+
+.iconExperi {
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 3rem;
+}
+
+.container {
+    text-align: center;
+    text-align: justify;
+}
+
+.titlefuncao1 {
+    font-weight: bold;
+    float: left;
+    margin-top: 1.5rem;
+}
+
+.subtitlefun1 {
+    margin-top: 1rem;
+    float: left;    
+}
+
+
+.title1 {
+    font-weight: bold;
+    text-align: center;
+    margin-top: 1.5rem;
+}
+
+.subtitle1 {
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.subtitle2 {
+    text-align: center;
+}
+.linha-vertical {
+    position: relative;
+    right:  -50%;
+    height: 100%;/*Altura da linha*/
+    border-left: 1px solid;/* Adiciona borda esquerda na div como ser fosse uma linha.*/
+  }
