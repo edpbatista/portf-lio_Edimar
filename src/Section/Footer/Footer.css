@@ -1,10 +1,9 @@
 .container-Footer{
 background-color: #323238;
+padding: 2rem;
 }
 
 .FooterFinal{
-  transition: all 0.5s;
-  cursor: pointer;
 }
 .FooterFinal :hover{
   -webkit-filter: drop-shadow(15px 10px 5px rgba(0,0,0,.5));

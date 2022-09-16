@@ -25,37 +25,45 @@
 .container {
     text-align: center;
     text-align: justify;
+    
 }
 
 .titlefuncao1 {
     font-weight: bold;
     float: left;
-    margin-top: 1.5rem;
+    margin-top: 1rem;
 }
 
 .subtitlefun1 {
     margin-top: 1rem;
-    float: left;    
+}
+.subtitlefun11 {
+    margin-top: 2rem;
 }
 
 
 .title1 {
     font-weight: bold;
-    text-align: center;
-    margin-top: 1.5rem;
+    margin-top: 1rem;
 }
 
 .subtitle1 {
-    margin-top: 3rem;
-    text-align: center;
+    margin-top: 2rem;
 }
 
-.subtitle2 {
-    text-align: center;
-}
 .linha-vertical {
     position: relative;
     right:  -50%;
     height: 100%;/*Altura da linha*/
     border-left: 1px solid;/* Adiciona borda esquerda na div como ser fosse uma linha.*/
   }
+
+.colleft{
+    text-align: right;
+    border-right: 1px solid;
+}
+
+.colright{
+    text-align: justify;
+    padding-right: 6rem;
+}
